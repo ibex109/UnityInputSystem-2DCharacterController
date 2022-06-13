@@ -9,4 +9,4 @@ The controller features:
 - Events for setting up animation
 - 2D Physics
 
-Note, the character controller works differently than the one from Brackeys. You do not need to create a player movement script to call the character controller. Everything is done inside the player script.
+Note, the character controller works differently than the one from Brackeys. You do not need to create a player movement script to call the character controller. The equivalent of the player movement script is the input action asset.
